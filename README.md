@@ -1,2 +1,1 @@
-# Versionamento
-Projeto da UC de Versionamento SENAI
+ARQUIVO DE DOCUMENTAÇÃO DO PROJETO 
